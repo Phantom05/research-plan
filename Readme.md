@@ -1,19 +1,19 @@
 **2020 년 목표**
 
-+ ***2월 - #1 프로젝트 릴리즈***
-+ ***6월 - #2 프로젝트 릴리즈***
++ ***02월 - #1 프로젝트 릴리즈***
++ ***06월 - #2 프로젝트 릴리즈***
 + ***10월 - #3 프로젝트 릴리즈***
 + ***12월 - #3 프로젝트 릴리즈***
 
-## ***Front-***
+## ***Front-end***
 
 GraphQL, RxJS, next, ssr, jest / unit, typescript, electron
 
 Vue.js, Angluar.js, Svelte.js
 
-## ***Back-***
+## ***Back-end***
 
-Docket, nginX
+Docker, nginX
 
 ## ***Database***
 
