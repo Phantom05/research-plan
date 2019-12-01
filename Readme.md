@@ -7,7 +7,7 @@
 
 ## ***Front-end***
 
-GraphQL, RxJS, next, ssr, jest / unit, typescript, electron
+GraphQL, RxJS, next, react ssr, jest / unit, typescript, electron
 
 Vue.js, Angluar.js, Svelte.js
 
@@ -21,9 +21,9 @@ PostgreSQL, MongoDB, MS-SQL
 
 ## ***Language***
 
-### **Python**
+#### **Python**
 
-**Python 배우기**, 우선 pip이나 venv같은것 먼저 보기
+**- Python 배우기**, 우선 pip이나 venv같은것 먼저 보기
 
 + [신남님 추천](http://pythonstudy.xyz/python/article/6-Python-%EC%BD%94%EB%94%A9%EC%9D%98-%EA%B8%B0%EC%B4%88](http://pythonstudy.xyz/python/article/6-Python-코딩의-기초))
 
@@ -32,22 +32,24 @@ PostgreSQL, MongoDB, MS-SQL
 +  [T 아카데미의 Python을 이용한 데이터분석 실습](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=119)
 + Edwith의 [머신러닝을 위한 Python](https://www.edwith.org/aipython/joinLectures/14365)
 
-**Tensorflow 배우기 **
+**- Tensorflow 배우기**
 
 + [Tensorflow 공식 홈페이지](https://www.tensorflow.org/tutorials/)
 + [골빈해커의 텐서플로우 강좌](https://github.com/golbin/TensorFlow-Tutorials)
 + [이찬우님의 텐서플로우 유튜브 강좌](https://www.youtube.com/watch?v=a74pFg8paVc&list=PL1H8jIvbSo1qlXVcdZTH2xsYFp3e1Nmjf)
 + [Tensorflow로 MNIST 실습 SlideShare](https://www.slideshare.net/leeseungeun/tensorflow-tutorial-72217416)
 
-**CNN 이해**
+**- CNN 이해**
 
 +  [초보자가 이해하기 좋은 CNN 이해 SlideShare](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
 + [CNN 스탠포드 강좌 - CS231n](http://- 초보자가 이해하기 좋은 CNN, RNN 이해 SlideShare)
 
-**RNN 이해**
+**- RNN 이해**
 
 +  [초보자가 이해하기 좋은 CNN, RNN 이해 SlideShare](https://www.slideshare.net/modulabs/2-cnn-rnn)
 + [RNN LSTM 이해 - Colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+
 
 
 
