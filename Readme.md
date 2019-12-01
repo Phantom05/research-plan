@@ -20,7 +20,7 @@ PostgreSQL, MongoDB, MS-SQL
 
 **Python 배우기**, 우선 pip이나 venv같은것 먼저 보기
 
-+ [신남님 추천]([http://pythonstudy.xyz/python/article/6-Python-%EC%BD%94%EB%94%A9%EC%9D%98-%EA%B8%B0%EC%B4%88](http://pythonstudy.xyz/python/article/6-Python-코딩의-기초))
++ [신남님 추천](http://pythonstudy.xyz/python/article/6-Python-%EC%BD%94%EB%94%A9%EC%9D%98-%EA%B8%B0%EC%B4%88](http://pythonstudy.xyz/python/article/6-Python-코딩의-기초))
 
 + T 아카데미의 [Python 프로그래밍](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=89): 파이썬 3 기반 기초 
 + T 아카데미의 [Python을 활용한 데이터분석 기초](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=132): Jupyter Notebook기반으로 Pandas, Seaborn 실습
