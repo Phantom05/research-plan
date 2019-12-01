@@ -4,7 +4,7 @@
 
 GraphQL, RxJS, next, ssr, jest / unit, typescript, electron
 
-Vue, Angluar, Svelte
+Vue.js, Angluar.js, Svelte.js
 
 ## ***Back-***
 
