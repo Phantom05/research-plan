@@ -37,7 +37,7 @@ PostgreSQL, MongoDB, MS-SQL
 **CNN 이해**
 
 +  [초보자가 이해하기 좋은 CNN 이해 SlideShare](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
-+ [CNN 스탠포드 강좌 - CS231n](http://- 초보자가 이해하기 좋은 CNN, RNN 이해 SlideShare/)
++ [CNN 스탠포드 강좌 - CS231n](http://- 초보자가 이해하기 좋은 CNN, RNN 이해 SlideShare)
 
 **RNN 이해**
 
@@ -144,4 +144,3 @@ PostgreSQL, MongoDB, MS-SQL
 ## etc
 
 - 자바스크립트 책 쓰기
-- 학은제 컴공 졸업
